@@ -1,23 +1,4 @@
-/*----------------------------------------------------
-@File: Default Styles
-@Author: SPONDON IT
-Author E-mail: info@spondonit.com
 
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
----------------------------------------------------- */
-/*=====================================================================
-@Template Name: Medicare Medical
-@Author: Naim LAsker
-@Developed By: Naim LAsker
-
-
-=====================================================================*/
-/*----------------------------------------------------*/
-/*font Variables*/
-/*Color Variables*/
-/*=================== fonts ====================*/
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:700|Roboto:300,300i,400,500,600");
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
@@ -568,7 +549,7 @@ button:focus {
   min-height: 450px; }
   .banner_area .banner_inner {
     position: relative;
-    background: url(../img/banner/common-banner.jpg) no-repeat center center;
+    background: url(../img/home/common-home.jpg) no-repeat center center;
     background-size: cover;
     width: 100%;
     min-height: 450px;
